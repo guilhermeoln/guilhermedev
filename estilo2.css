@@ -1,0 +1,130 @@
+body{
+    background-color: #ececec;
+    }
+    #form{
+        background-color: #ececec;
+        padding: 20px;
+        width: 500px;
+        height: 500px;
+        position: relative;
+        left: 450px;
+        top: 100px;
+    }
+    .login{
+        position: relative;
+        top: 155px;
+        left: 100px;
+        width: 300px;
+        height: 40px;
+        border-radius: 6px;
+        border: none;
+    }
+    
+    .senha{
+        position: relative;
+        top: 200px;
+        left: 100px;
+        width: 300px;
+        height: 40px;
+        border-radius: 6px;
+        border: none;
+    }
+
+    .senha2{
+        position: relative;
+        top: 220px;
+        left: 100px;
+        width: 300px;
+        height: 40px;
+        border-radius: 6px;
+        border: none;
+    }
+
+    .email{
+        position: relative;
+        top: 180px;
+        left: 100px;
+        width: 300px;
+        height: 40px;
+        border-radius: 6px;
+        border: none;
+    }
+    
+    .botao{
+        position: relative;
+        top: 250px;
+        left: 150px;
+        width: 200px;
+        padding: 5px;
+        padding: 1.3em 3em;
+     font-size: 12px;
+     text-transform: uppercase;
+     letter-spacing: 2.5px;
+     font-weight: 500;
+     color: #000;
+     background-color: #fff;
+     border: none;
+     border-radius: 45px;
+     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+     transition: all 0.3s ease 0s;
+     cursor: pointer;
+     outline: none;
+    }
+    
+    .botao2{
+        position: relative;
+        top: 260px;
+        left: 151px;
+        width: 200px;
+        padding: 5px;
+        padding: 1.3em 3em;
+     font-size: 12px;
+     text-transform: uppercase;
+     letter-spacing: 2.5px;
+     font-weight: 500;
+     color: #000;
+     background-color: #fff;
+     border: none;
+     border-radius: 45px;
+     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+     transition: all 0.3s ease 0s;
+     cursor: pointer;
+     outline: none;
+    }
+    
+    h1{
+        color: white;
+        position: relative;
+        left: 680px;
+        bottom: 340px;
+    }
+    
+    H4{
+        color: white;
+        position: relative;
+        left: 710px;
+        bottom: 125px;
+    }
+    
+    .img{
+        position: relative;
+        width: 100px;
+        height: 100px;
+        border-radius: 100px;
+        bottom: 400px;
+        left: 670px;
+    }
+    
+    .botao:hover{
+        background-color: #2EE59D;
+        box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+        color: #fff;
+        transform: translateY(-7px);
+    }
+    
+    .botao2:hover{
+        background-color: #2EE59D;
+        box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+        color: #fff;
+        transform: translateY(-7px);
+    }
